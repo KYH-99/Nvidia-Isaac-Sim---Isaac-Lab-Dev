@@ -116,11 +116,11 @@ EN: Prepare final report, presentations, and outline possible extensions.
 KR: 최종 보고서, 발표 자료를 준비하고 향후 확장 방향을 정리합니다.
 
 # 🚀 Tech Stack (기술 스택)
-Isaac Sim 5.0.0
-Isaac Lab
-Python / PyTorch
-Reinforcement Learning (PPO 중심)
-ROS + JetBot
+- Isaac Sim 5.0.0
+- Isaac Lab
+- Python / PyTorch
+- Reinforcement Learning (PPO 중심)
+- ROS + JetBot
 
 # 🔖 Tags
 physical-ai
