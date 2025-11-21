@@ -123,10 +123,10 @@ KR: 최종 보고서, 발표 자료를 준비하고 향후 확장 방향을 정�
 - ROS + JetBot
 
 # 🔖 Tags
-physical-ai
-isaac-sim
-isaac-lab
-jetbot
-reinforcement-learning
-autonomous-driving
-sim2real
+- physical-ai
+- isaac-sim
+- isaac-lab
+- jetbot
+- reinforcement-learning
+- autonomous-driving
+- sim2real
