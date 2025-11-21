@@ -20,35 +20,35 @@ Isaac Lab 기반 강화학습 환경(Line Tracking → Free Navigation) 개발
 
 # ✅ To-Do Roadmap (단계별 개발 로드맵)
 ### 1. Environment Setup (환경 구성)
-EN: Set up Isaac Sim, Isaac Lab, CUDA, PyTorch, ROS, and all required development tools.
+EN: Set up Isaac Sim, Isaac Lab, CUDA, PyTorch, ROS, and all required development tools. /n
 KR: Isaac Sim, Isaac Lab, CUDA, PyTorch, ROS 및 필요 개발 도구 전체 환경을 구성합니다.
 
 ### 2. Repository Structure Design (저장소 구조 설계)
-EN: Define workspace layout and development branches (main, dev-sim, dev-rl, sim2real, experiments).
+EN: Define workspace layout and development branches (main, dev-sim, dev-rl, sim2real, experiments)./n
 KR: main, dev-sim, dev-rl, sim2real, experiments 등의 브랜치 및 워크스페이스 구조를 설계합니다.
 
 ### 3. Create MockRobot for Physics Tests (물리 실험용 MockRobot 생성)
-EN: Build a simple box-shaped robot USD model for controlled physical experiments.
+EN: Build a simple box-shaped robot USD model for controlled physical experiments./n
 KR: 물리 환경 실험을 위해 단순한 박스 형태의 MockRobot USD를 생성합니다.
 
 ### 4. Physics Parameter Exploration (물리 파라미터 탐색)
-EN: Experiment with mass, friction, inertia, damping, and motor torque to understand Isaac Sim physics.
+EN: Experiment with mass, friction, inertia, damping, and motor torque to understand Isaac Sim physics./n
 KR: 질량, 마찰, 관성, 감쇠, 모터 토크 등 다양한 물리 요소를 실험합니다.
 
 ### 5. Basic Dynamics Testing (기초 동역학 실험)
-EN: Test acceleration, deceleration, stopping distance, turning behavior, and collision responses.
+EN: Test acceleration, deceleration, stopping distance, turning behavior, and collision responses./n
 KR: 가속, 감속, 정지 거리, 회전 반응, 충돌 반응을 실험합니다.
 
 ### 6. Import JetBot USD (JetBot 모델 불러오기)
-EN: Load the official JetBot USD model and analyze its structure.
+EN: Load the official JetBot USD model and analyze its structure./n
 KR: 공식 JetBot USD 모델을 로드하고 구조를 분석합니다.
 
 ### 7. JetBot Physics Tuning (JetBot 물리 파라미터 튜닝)
-EN: Tune mass, COM, wheel friction, damping, and motor characteristics to match real-world JetBot.
+EN: Tune mass, COM, wheel friction, damping, and motor characteristics to match real-world JetBot./n
 KR: 실제 JetBot과 유사하도록 질량, 무게 중심, 바퀴 마찰, 감쇠, 모터 특성을 조정합니다.
 
 ### 8. Default vs Tuned JetBot Comparison (기본 JetBot vs 튜닝 JetBot 비교)
-### EN: Compare acceleration, braking, curvature handling, and stability between the two models. 
+### EN: Compare acceleration, braking, curvature handling, and stability between the two models. /n
 KR: 두 모델의 가속, 제동, 곡선 주행, 안정성을 비교합니다.
 
 ### 9. Sensor Setup (센서 세팅)
