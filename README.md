@@ -16,7 +16,7 @@ Deploy trained RL policies to the real JetBot (ROS / Ubuntu 18.04)
 ### Korean
 JetBot + Isaac Sim에서 가속·관성·마찰·제동·충돌을 모두 포함한 현실적 물리 시뮬레이션 구축
 Isaac Lab 기반 강화학습 환경(Line Tracking → Free Navigation) 개발
-학습된 정책을 실제 **JetBot(ROS/18.04)**에 업로드하여 자율주행 구현
+학습된 정책을 실제 JetBot(ROS/18.04)에 업로드하여 자율주행 구현
 
 # ✅ To-Do Roadmap (단계별 개발 로드맵)
 ### 1. Environment Setup (환경 구성)
